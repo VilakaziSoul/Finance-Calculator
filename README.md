@@ -82,4 +82,5 @@ Create a pull request with a clear title and description.
 Your contribution will be reviewed, and once accepted, it will be merged into the main branch.
 
 ## License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
